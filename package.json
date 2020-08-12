@@ -1,0 +1,19 @@
+{
+  "name": "lfp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.7",
+    "@types/ffmpeg-concat": "^1.1.0",
+    "express": "^4.17.1",
+    "ffmpeg-concat": "^1.2.3",
+    "typescript": "^3.9.7"
+  }
+}
